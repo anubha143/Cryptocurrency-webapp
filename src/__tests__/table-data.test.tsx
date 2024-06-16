@@ -42,6 +42,4 @@ describe("TableData Component", () => {
       expect(getByText("350000000000")).toBeInTheDocument();
     });
   });
-
-  // Add more test cases to handle error scenarios if needed
 });

@@ -32,6 +32,4 @@ describe("TableData Component", () => {
       expect(getByText("Bitcoin")).toBeInTheDocument();
     });
   });
-
-  // Add more test cases to handle error scenarios if needed
 });
